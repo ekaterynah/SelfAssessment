@@ -1,63 +1,63 @@
 ﻿## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
+  - Procedural programming: 🎓 known
   - Imperative programming
   - Structured programming
   - Non-structured programming
   - Functional programming: 🎓 known
   - Prototype-based programming
-  - Object-oriented programming: 👂 heard
+  - Object-oriented programming: 🎓 known
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asyncronous programming: 👂 heard
+  - Asyncronous programming: 🎓 known
   - Parallel programming: 👂 heard
   - Reactive programming
   - FRP (Functional-reactive)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming
+  - Multi-paradigm programming: 👂 heard
   - Metaprogramming
   - Actor model
 - OOP basics
-  - constructor
-  - new: 🎓 known
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
-  - Field declarations
-  - Inheritance
-  - Parent class
-  - Polymorphism
-  - Abstract class
-  - Interface
-  - Encapsulation
+  - constructor: 🖐️ used
+  - new: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🖐️ used
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🎓 known
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
+  - Polymorphism: 🖐️ used
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
+  - Encapsulation: 🎓 known
   - Hidden class
-  - Object form
-  - instance
-  - Introspection
-  - Reflection
+  - Object form: 🎓 known
+  - instance: 🖐️ used
+  - Introspection: 🎓 known
+  - Reflection: 🎓 known
 - Patterns
-  - Singleton
-  - Factory Method
-  - Abstract Factory
+  - Singleton: 🖐️ used
+  - Factory Method: 🎓 known
+  - Abstract Factory: 🎓 known
   - Adapter
-  - Observer
-  - Strategy
+  - Observer: 👂 heard
+  - Strategy: 👂 heard
   - Facade
-  - Proxy: 👂 heard
+  - Proxy: 🎓 known
   - Chain of Responsibility
-  - Command
-  - Iterator
+  - Command: 🎓 known
+  - Iterator: 🎓 known
   - State
-  - Bridge
+  - Bridge: 👂 heard
   - Builder
-  - Prototype
-  - Composite
+  - Prototype: 🎓 known
+  - Composite: 🎓 known
   - Decorator
   - Flyweight
   - Mediator

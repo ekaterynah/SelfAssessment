@@ -4,22 +4,22 @@
   - Object: 🖐️ used
   - this: 🖐️ used
   - arrow function: 🖐️ used
-  - async function: 👂 heard
+  - async function: 🖐️ used
   - call: 🖐️ used
   - bind: 🖐️ used
   - apply: 🖐️ used
-  - instanceof: 🎓 known
-  - ...spread: 🎓 known
-  - ...rest: 🎓 known
-  - typeof: 🎓 known
-  - destructuring: 🎓 known
-  - generator
+  - instanceof: 🖐️ used
+  - ...spread: 🖐️ used
+  - ...rest: 🖐️ used
+  - typeof: 🖐️ used
+  - destructuring: 🖐️ used
+  - generator: 🎓 known
   - iterator: 🖐️ used
-  - async generator
-  - async iterator
+  - async generator: 🎓 known
+  - async iterator: 🎓 known
   - chaining: 🎓 known
   - optional chaining: 🎓 known
-  - IIFE
+  - IIFE: 🖐️ used
   - global: 🎓 known
   - globalThis: 🖐️ used
   - window: 🖐️ used
@@ -30,9 +30,9 @@
   - logical operators: 🖐️ used
   - bitwise operators: 🎓 known
   - ternary operator: 🖐️ used
-  - void: 🎓 known
-  - yield
-  - await: 🎓 known
+  - void: 🖐️ used
+  - yield: 🎓 known
+  - await: 🖐️ used
   - template literal: 🖐️ used
   - strict mode: 🖐️ used
   - delete: 🖐️ used
@@ -47,7 +47,7 @@
   - for: 🖐️ used
   - for..in: 🖐️ used
   - for..of: 🖐️ used
-  - for await: 🎓 known
+  - for await: 🖐️ used
   - throw: 🖐️ used
   - break: 🖐️ used
   - continue: 🖐️ used
@@ -56,9 +56,9 @@
   - label
   - try..catch: 🖐️ used
   - switch: 🖐️ used
-  - class: 🎓 known
-  - new Error
-  - with
+  - class: 🖐️ used
+  - new Error: 🎓 known
+  - with: 🎓 known
 - Functions
   - function declaration: 🖐️ used
   - function expression: 🖐️ used
@@ -69,21 +69,21 @@
   - Array: 🖐️ used
   - mixin
   - extend: 👂 heard
-  - typed arrays
+  - typed arrays: 🎓 known
   - Map: 🖐️ used
   - Set: 🖐️ used
   - undefined: 🎓 known
   - null: 🎓 known
   - Proxy: 🎓 known
-  - weak collections
+  - weak collections: 🎓 known
   - timers: 🎓 known
-  - EventEmitter: 👂 heard
+  - EventEmitter: 🎓 known
   - RegExp
-  - Date
+  - Date: 🎓 known
   - BigInt: 🎓 known
 - Infrastructure
   - V8
   - Node.js: 🖐️ used
-  - npm
+  - npm: 🖐️ used
   - prettier: 👂 heard
   - MDN
