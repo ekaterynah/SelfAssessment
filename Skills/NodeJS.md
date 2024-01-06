@@ -1,4 +1,4 @@
-## Node.js and backend
+﻿## Node.js and backend
 
 - Internals and concepts
   - Strong and weak sides of node.js
@@ -12,7 +12,7 @@
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
   - CommonJS modules
-  - ECMAScript modules
+  - ECMAScript modules: 👂 heard
   - node:module
   - Caching in CJS and ESM
   - Modules as singletons
@@ -86,9 +86,9 @@
 - Network
   - IP sticky sessions
   - Endpoint throttling
-  - HTTP(S)
+  - HTTP(S): 🎓 known
   - TCP/SSL
-  - UDP
+  - UDP: 🎓 known
   - TLS
   - Websocket
   - SSE
@@ -102,7 +102,7 @@
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS: 🎓 known
   - Fetch API
   - IncomingMessage
   - SQL injection
@@ -123,7 +123,7 @@
   - Transform
   - back pressure
   - Buffer
-  - Console
+  - Console: 🎓 known
   - Inspector
   - Reliability
   - Quality
@@ -136,7 +136,7 @@
   - Query builder
   - Object-Relational Mapping
 - Error handling and debugging
-  - Error
+  - Error: 🎓 known
   - error.cause
   - error.code
   - error.message

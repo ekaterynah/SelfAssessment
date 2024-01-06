@@ -1,18 +1,18 @@
-## Multi-paradigm programming
+﻿## Multi-paradigm programming
 
 - Theory
   - Procedural programming
   - Imperative programming
   - Structured programming
   - Non-structured programming
-  - Functional programming
+  - Functional programming: 🎓 known
   - Prototype-based programming
-  - Object-oriented programming
+  - Object-oriented programming: 👂 heard
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asyncronous programming
-  - Parallel programming
+  - Asyncronous programming: 👂 heard
+  - Parallel programming: 👂 heard
   - Reactive programming
   - FRP (Functional-reactive)
   - Automata-based programming
@@ -22,7 +22,7 @@
   - Actor model
 - OOP basics
   - constructor
-  - new
+  - new: 🎓 known
   - Static method
   - Method
   - Async method
@@ -49,7 +49,7 @@
   - Observer
   - Strategy
   - Facade
-  - Proxy
+  - Proxy: 👂 heard
   - Chain of Responsibility
   - Command
   - Iterator
